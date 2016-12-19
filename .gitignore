@@ -1,0 +1,26 @@
+# Eclipse
+.metadata
+.classpath
+.project
+.settings
+.loadpath
+.recommenders
+.tern-project
+.faces-config.xml.jsfdia
+bin/
+tmp/
+
+# STS (Spring Tool Suite)
+.springBeans
+
+# Code Recommenders
+.recommenders/
+
+# Intellij
+.idea/
+
+# Project
+target/
+overlays/
+logs/
+
